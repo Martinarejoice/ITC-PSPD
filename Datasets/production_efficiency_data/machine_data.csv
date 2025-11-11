@@ -1,0 +1,6 @@
+machine_id,model,capacity_units_per_hour,installation_date
+M01,Alpha,202,2020-03-12
+M02,Alpha,279,2020-02-22
+M03,Gamma,192,2020-12-12
+M04,Beta,114,2020-10-06
+M05,Beta,206,2020-02-14
